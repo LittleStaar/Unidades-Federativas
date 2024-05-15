@@ -10,5 +10,5 @@ O objetivo desse projeto foi fazer uma tabela com todos os estados do Brasil e c
 * HTML
 * CSS
 
-## Autores
+## Autor
 <b>Aline Kettylen Oliveira da Silva</b>
